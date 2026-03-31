@@ -39,7 +39,7 @@ Built a CLI-based data automation tool that validates input, stores structured C
 
 ---
 
-### 🔹 Data Analytics 
+### 🔹 Statistical & Machine Learning Analytics
 Full analytics lifecycle in Python & R: cleaning, visualization, predictive modeling, and prescriptive optimization.
 
 ➡️ [View Repository](https://github.com/AprilTaylor26/Data-Analytics)
