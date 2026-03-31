@@ -1,7 +1,7 @@
 # April Taylor
 
 🎓 B.S. Information Technology – Software Development & Coding  
-AI/ML & Data Analytics Track (Expected June 2026)  
+AI/ML & Data Analytics Track (Expected August 2026)  
 Dean’s List | Phi Theta Kappa | Golden Key Honor Society  
 
 ---
