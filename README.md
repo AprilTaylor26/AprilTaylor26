@@ -1,7 +1,7 @@
 # April Taylor
 
 🎓 B.S. Information Technology – Software Development & Coding  
-AI/ML & Data Analytics Track (Expected August 2026)  
+AI/ML & Data Analytics Track (Expected September 2026)  
 Dean’s List | Phi Theta Kappa | Golden Key Honor Society  
 
 ---
@@ -12,10 +12,32 @@ Dean’s List | Phi Theta Kappa | Golden Key Honor Society
 - Data Analytics with Python
 - Linux & Systems Fundamentals
 - Backend Development (PHP & MySQL)
+- Tableau, Power BI
 
 ---
 
 ## 📌 Featured Projects
+
+### 🔹 Anime Popularity Analytics - Python + Tableau
+Exploring genre trends and rating patterns using MyAnimeList data
+
+➡️ [View Repository]()
+
+---
+
+### 🔹 Database Query Optimization - SQL + Python
+Analyzing query logs to identify performance bottlenecks and indexing strategies.
+
+➡️ [View Repository]()
+
+---
+
+### 🔹 Statistical & Machine Learning Analytics
+Full analytics lifecycle in Python & R: cleaning, visualization, predictive modeling, and prescriptive optimization.
+
+➡️ [View Repository](https://github.com/AprilTaylor26/Data-Analytics)
+
+---
 
 ### 🔹 SQL Database Design & Relational Modeling
 Designed and implemented a normalized relational database schema using SQL.  
@@ -36,13 +58,6 @@ Developed a dynamic backend-driven web application with session handling and dat
 Built a CLI-based data automation tool that validates input, stores structured CSV data, and generates summary reports.
 
 ➡️ [View Repository](https://github.com/AprilTaylor26/temp-data-logger)
-
----
-
-### 🔹 Statistical & Machine Learning Analytics
-Full analytics lifecycle in Python & R: cleaning, visualization, predictive modeling, and prescriptive optimization.
-
-➡️ [View Repository](https://github.com/AprilTaylor26/Data-Analytics)
 
 ---
 ## 🚀 Career Goal
