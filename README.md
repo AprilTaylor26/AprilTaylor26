@@ -28,7 +28,7 @@ Exploring genre trends and rating patterns using MyAnimeList data
 ### 🔹 Database Query Optimization - SQL + Python
 Analyzing query logs to identify performance bottlenecks and indexing strategies.
 
-➡️ [View Repository]()
+➡️ [View Repository](https://github.com/AprilTaylor26/SQL-Query-Optimization)
 
 ---
 
