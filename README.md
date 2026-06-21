@@ -21,7 +21,7 @@ Dean’s List | Phi Theta Kappa | Golden Key Honor Society
 ### 🔹 Anime Popularity Analytics - Python + Tableau
 Exploring genre trends and rating patterns using MyAnimeList data
 
-➡️ [View Repository]()
+➡️ [View Repository](https://github.com/AprilTaylor26/Anime-Popularity-Trends)
 
 ---
 
