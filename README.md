@@ -1,12 +1,18 @@
 # April Taylor
 
-🎓 B.S. Information Technology – Software Development & Coding  
+B.S. Information Technology – Software Development & Coding  
 AI/ML & Data Analytics Track (Expected September 2026)  
+ECPI University
 Dean’s List | Phi Theta Kappa | Golden Key Honor Society  
+
+Master of Science in Computer Science (OMSCS) - Computing Systems / Data Infrastructure 
+Georgia Institute of Technology 
+Enrolled:	January 2027
+Expected Graduation:January 2029
 
 ---
 
-## 👩‍💻 Technical Focus
+## Technical Focus
 - Relational Database Design
 - SQL Development
 - Data Analytics with Python
@@ -16,7 +22,7 @@ Dean’s List | Phi Theta Kappa | Golden Key Honor Society
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### 🔹 Anime Popularity Analytics - Python + Tableau
 Exploring genre trends and rating patterns using MyAnimeList data
@@ -60,5 +66,5 @@ Built a CLI-based data automation tool that validates input, stores structured C
 ➡️ [View Repository](https://github.com/AprilTaylor26/temp-data-logger)
 
 ---
-## 🚀 Career Goal
+## Career Goal
 Focused on building advanced expertise in relational database systems and data infrastructure.
