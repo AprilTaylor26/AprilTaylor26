@@ -16,8 +16,8 @@ Dean’s List | Phi Theta Kappa | Golden Key Honor Society
 - Tableau, Power BI
 
 ---
-## Career Goal
-Focused on building advanced expertise in relational database systems and data infrastructure.
+# Career Goal
+Focused on building advanced expertise in relational database systems and data infrastructure. 
 ---
 
 ## Featured Projects
