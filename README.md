@@ -22,6 +22,11 @@ Focused on building advanced expertise in relational database systems and data i
 
 ## Featured Projects
 
+### 🔹 Project Straylight — Hero‑Shooter RPG Hybrid Database (Oracle SQL)
+An advanced, production‑style relational database designed for a hero‑shooter RPG hybrid game. Built in Oracle SQL (schema: STRAYLIGHT) to demonstrate intermediate and advanced DBA skills including schema design, indexing strategy, constraints, PL/SQL triggers, stored procedures, materialized views, and performance tuning.
+
+➡️ [View Repository]()
+
 ### 🔹 Stellar Database System (Oracle SQL)
 Designed and implemented a multi‑table relational database with identity primary keys, foreign keys, constraints, indexes, analytical views, and 5,000+ rows of synthetic data. Built analytical queries and reporting views for planetary, discovery, and observatory insights.
 
