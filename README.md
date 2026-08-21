@@ -5,11 +5,6 @@ AI/ML & Data Analytics Track (Expected September 2026)
 ECPI University
 Dean’s List | Phi Theta Kappa | Golden Key Honor Society  
 
-Master of Science in Computer Science (OMSCS) - Computing Systems / Data Infrastructure 
-Georgia Institute of Technology 
-Enrolled:	January 2027
-Expected Graduation:January 2029
-
 ---
 
 ## Technical Focus
@@ -21,20 +16,22 @@ Expected Graduation:January 2029
 - Tableau, Power BI
 
 ---
+## Career Goal
+Focused on building advanced expertise in relational database systems and data infrastructure.
+---
 
 ## Featured Projects
+
+### 🔹 Stellar Database System (Oracle SQL)
+Designed and implemented a multi‑table relational database with identity primary keys, foreign keys, constraints, indexes, analytical views, and 5,000+ rows of synthetic data. Built analytical queries and reporting views for planetary, discovery, and observatory insights.
+
+➡️ [View Repository]()
+
 
 ### 🔹 Anime Popularity Analytics - Python + Tableau
 Exploring genre trends and rating patterns using MyAnimeList data
 
 ➡️ [View Repository](https://github.com/AprilTaylor26/Anime-Popularity-Trends)
-
----
-
-### 🔹 Database Query Optimization - SQL + Python
-Analyzing query logs to identify performance bottlenecks and indexing strategies.
-
-➡️ [View Repository](https://github.com/AprilTaylor26/SQL-Query-Optimization)
 
 ---
 
@@ -66,5 +63,3 @@ Built a CLI-based data automation tool that validates input, stores structured C
 ➡️ [View Repository](https://github.com/AprilTaylor26/temp-data-logger)
 
 ---
-## Career Goal
-Focused on building advanced expertise in relational database systems and data infrastructure.
