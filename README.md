@@ -8,12 +8,10 @@ Dean’s List | Phi Theta Kappa | Golden Key Honor Society
 ---
 
 ## Technical Focus
-- Relational Database Design
-- SQL Development
-- Data Analytics with Python
+- Relational Database Design (Oracle, PostgreSql, MySQL)
+- SQL Development (DDL, DML, PL/SQL)
+- Data Modeling and ERD Architecture
 - Linux & Systems Fundamentals
-- Backend Development (PHP & MySQL)
-- Tableau, Power BI
 
 ---
 # Career Goal
