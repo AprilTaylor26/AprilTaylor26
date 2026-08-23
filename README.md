@@ -12,6 +12,7 @@ Dean’s List | Phi Theta Kappa | Golden Key Honor Society
 - SQL Development (DDL, DML, PL/SQL)
 - Data Modeling and ERD Architecture
 - Linux & Systems Fundamentals
+- Power BI & Tableau
 
 ---
 ## Career Goal
@@ -45,7 +46,7 @@ Exploring genre trends and rating patterns using MyAnimeList data
 ### 🔹 Superstore Tableau Analytics Dashboard
 A multi‑sheet Tableau dashboard analyzing profitability, sales trends, and customer segments using the Superstore dataset.
 
-➡️ [View Repository]()
+➡️ [View Repository](https://github.com/AprilTaylor26/Superstore-Analytics)
 
 ---
 
