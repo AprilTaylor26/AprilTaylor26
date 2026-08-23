@@ -35,10 +35,17 @@ Designed and implemented a multi‑table relational database with identity prima
 
 ---
 
-### 🔹 Anime Popularity Analytics - Python + Tableau
+### 🔹 Anime Popularity Analytics - Python + Power BI
 Exploring genre trends and rating patterns using MyAnimeList data
 
 ➡️ [View Repository](https://github.com/AprilTaylor26/Anime-Popularity-Trends)
+
+---
+
+### 🔹 Superstore Tableau Analytics Dashboard
+A multi‑sheet Tableau dashboard analyzing profitability, sales trends, and customer segments using the Superstore dataset.
+
+➡️ [View Repository]()
 
 ---
 
