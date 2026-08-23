@@ -57,13 +57,6 @@ Applied referential integrity constraints, data validation, and query optimizati
 
 ---
 
-### 🔹 PHP & MySQL Web Application
-Developed a dynamic backend-driven web application with session handling and database integration.
-
-➡️ [View Repository](https://github.com/aprtay2887/AstroOddities)
-
----
-
 ### 🔹 Python Data Processing & Reporting Tool
 Built a CLI-based data automation tool that validates input, stores structured CSV data, and generates summary reports.
 
