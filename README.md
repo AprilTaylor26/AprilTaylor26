@@ -22,8 +22,15 @@ Focused on building advanced expertise in relational database systems and data i
 
 ## Featured Projects
 
+### 🔹 Multi-Tool Analytics Project --In progress
+A growing collection of analytics projects showcasing practical, real‑world data skills across Excel, Power BI, and Python. This portfolio focuses on job market and skill demand insights, combining dashboard development, exploratory analysis, KPI design, and data cleaning workflows. Each project highlights a different toolset and demonstrates the ability to extract meaningful insights from complex datasets while building polished, interactive visualizations.
+
+➡️ [View Repository](https://github.com/AprilTaylor26/Multi-tool_analytics_project)
+
+---
+
 ### 🔹 Project Straylight — Hero‑Shooter RPG Hybrid Database (Oracle SQL) --In progress
-An advanced, production‑style relational database designed for a hero‑shooter RPG hybrid game. Built in Oracle SQL (schema: STRAYLIGHT) to demonstrate intermediate and advanced DBA skills including schema design, indexing strategy, constraints, PL/SQL triggers, stored procedures, materialized views, and performance tuning for 60 tables.
+An ongoing advanced, production‑style relational database designed for a hero‑shooter RPG hybrid game. Built in Oracle SQL (schema: STRAYLIGHT) to demonstrate intermediate and advanced DBA skills including schema design, indexing strategy, constraints, PL/SQL triggers, stored procedures, materialized views, and performance tuning for 60 tables.
 
 ➡️ [View Repository](https://github.com/AprilTaylor26/Straylight-Project)
 
