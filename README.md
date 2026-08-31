@@ -22,6 +22,13 @@ Focused on building advanced expertise in relational database systems and data i
 
 ## Featured Projects
 
+### 🔹 Asset Forge Marketplace - Capstone Project (In Progress)
+This will be a cloud-hosted PHP web application designed for indie game developers to browse, upload and manage any digital game assets. Some features will include user authentication, secure asset uploads, search functionality and a MySQL backend with multiple relational tables.
+
+➡️ [View Repository](https://github.com/AprilTaylor26/AssetForge_Marketplace_Capstone)
+
+---
+
 ### 🔹 Multi-Tool Analytics Project --In progress
 A growing collection of analytics projects showcasing practical, real‑world data skills across Excel, Power BI, and Python. This portfolio focuses on job market and skill demand insights, combining dashboard development, exploratory analysis, KPI design, and data cleaning workflows. Each project highlights a different toolset and demonstrates the ability to extract meaningful insights from complex datasets while building polished, interactive visualizations.
 
